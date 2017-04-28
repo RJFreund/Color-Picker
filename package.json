@@ -1,0 +1,22 @@
+{
+  "name": "color-picker",
+  "version": "1.0.0",
+  "description": "A global color picker",
+  "main": "color-picker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RJFreund/Color-Picker.git"
+  },
+  "author": "R.J. Freund",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RJFreund/Color-Picker/issues"
+  },
+  "homepage": "https://github.com/RJFreund/Color-Picker#readme",
+  "dependencies": {
+    "robotjs": "^0.4.7"
+  }
+}
